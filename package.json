@@ -1,0 +1,13 @@
+{
+    "name": "minesweeper",
+    "version": "1.0.0",
+    "description": "Simple minesweeper generator",
+    "license": "MIT",
+    "dependencies": {
+        "underscore": "latest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:hanpeter/minesweeper.git"
+    }
+}
